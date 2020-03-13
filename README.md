@@ -1,0 +1,2 @@
+# init-chromebook
+ChromebookのLinuxに日本語環境を整えるためのスクリプト
